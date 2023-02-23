@@ -50,8 +50,12 @@ h3 {
 }
 
 .section-cube > p {
-  margin: 0px 0px 64px 0px;
-  text-align: center;
+      text-align: center;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 64px;
+
 }
 
 /* ----------------------------------------------------------------------------------------------------- */
